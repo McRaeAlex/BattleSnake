@@ -1,0 +1,10 @@
+{
+    "name": "Rusty battlesnake entry",
+    "description": "A rusty battlesnake",
+    "repository": "https://github.com/McRaeAlex/BattleSnake2020",
+    "success_url": "/",
+    "keywords": ["rust", "rocket"],
+    "env": {
+      "BUILDPACK_URL": "https://github.com/emk/heroku-buildpack-rust.git"
+    }
+  }
